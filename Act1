@@ -1,0 +1,16 @@
+public class Main {
+    public static void main(String[] args) {
+        int num1 = 100;
+        int num2 = 50;
+        int total = num1 + num2; 
+
+        
+        if (total > 100) {
+            System.out.println("The total is greater than 50.");
+        } else {
+            System.out.println("The total is less than or equal to 100.");
+        }
+
+        }
+    }
+
